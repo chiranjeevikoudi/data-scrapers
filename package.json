@@ -1,0 +1,25 @@
+{
+  "name": "data-scrapers",
+  "version": "1.0.0",
+  "description": "It gathers different types of data from web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiranjeevikoudi/data-scrapers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiranjeevikoudi/data-scrapers/issues"
+  },
+  "homepage": "https://github.com/chiranjeevikoudi/data-scrapers#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "mongodb": "^2.2.25",
+    "node-html-parser": "^1.1.11",
+    "request": "^2.88.0"
+  }
+}
