@@ -1,2 +1,2 @@
 # Data Scrapers
-It gathers the different types of data from web.
+It gathers different types of data from web.
